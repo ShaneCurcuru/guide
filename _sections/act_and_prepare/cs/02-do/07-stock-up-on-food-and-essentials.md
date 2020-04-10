@@ -4,21 +4,7 @@
 {:.do.no_toc}
 ### Vytvořte si zásoby potravin a základních potřeb - Brzy, pozvolna a zodpovědně.
 
-Diskuze:
-
-> "Pokud se virus rozšíří všude, jaký má smysl se připravovat?"
->
-> Aneb proč skupování všech konzerv v obchodě A NEBO ignorování
-> současné situace jsou nevhodná řešení současné krize.
-> [\#COVID19](https://twitter.com/hashtag/COVID19?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV2](https://twitter.com/hashtag/SARSCoV2?src=hash&ref_src=twsrc%5Etfw)
-> [\#Coronavirus](https://twitter.com/hashtag/Coronavirus?src=hash&ref_src=twsrc%5Etfw)
-> [\#SARSCoV19](https://twitter.com/hashtag/SARSCoV19?src=hash&ref_src=twsrc%5Etfw)
-> :\
-> (1/n)
->
-> --- Dr Emma Hodcroft (@firefoxx66) [February 29,
-> 2020](https://twitter.com/firefoxx66/status/1233666678841597952?ref_src=twsrc%5Etfw)
+{% twitter https://twitter.com/firefoxx66/status/1233666678841597952 align=center %}
 
 "Experti neradí vytvořit si zásoby proto, že předpokládají, že by se společnost zhroutila a vy nebudete mít jak si koupit jídlo. Je to kvůli tomu, že [i jen pár dní nákupní paniky a z toho plynoucího tlaku na naše zásobovací systémy paniku jenom prohloubí a systémy budu pod větším tlakem než je nutné](https://twitter.com/firefoxx66/status/1233666678841597952). Trávit čas ve velikých frontách se spoustou dalších lidí je v současné chvíli nerozumné. Nakupujte mimo špičku. Kupte si zásob víc než zrovna potřebujete, abyste minimalizovali počet návštěv obchodu. Připravenost není založená na nicnedělání, ale vyvarujte se přehnaných reakcí. Buďte něžní a nezhoršujte už tak napjatou situaci v našech [zásobovacích systémech.](https://twitter.com/firefoxx66/status/1233666678841597952). Cílem je zvolnit poptávku, dát systémům čas a příležitost se adaptovat a zajistit, že nezbytné prostředky budou nadále k dispozici, zejména pro ty, co budou v nouzi. 
 
